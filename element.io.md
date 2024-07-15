@@ -21,7 +21,9 @@ Kopiere den automatisch generierten Schlüssel in einen Passwortmanager, oder sp
 
 # Erneute Anmeldung im Browser oder Anmeldung auf einem neuen Gerät
 
-- Loggst du dich aus der Browser-App aus und später wieder ein, wird dieser Screen angezeigt. Der gleiche Screen erscheint, wenn du versuchst, dich von einem neuen Gerät/neuen Browser einzuloggen.
+### Desktop
+
+Loggst du dich aus der Browser-App aus und später wieder ein, wird dieser Screen angezeigt. Der gleiche Screen erscheint, wenn du versuchst, dich von einem neuen Desktopgerät/neuen Browser einzuloggen.
 
 ![image](https://github.com/user-attachments/assets/86eb3823-23f4-4e4f-95fc-ed66fbd00997)
 
@@ -31,6 +33,8 @@ Hier muss, wie erwähnt, nun der vorher erzeugte oder eigens gewählte Schlüsse
 Der QR-Code lässt sich nun aus der element-App heraus von einem Handy oder Tablet scannen oder alternativ lässt sich die Verifizierung auch durch den Abgleich von Emojis durchführen.
 
 ---
+
+### Mobilgerät
 
 Ist das neue Gerät ein Mobilgerät, erscheint am oberen Bildschirmrand diese Leiste:
 
