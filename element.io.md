@@ -5,7 +5,7 @@ Die für unsere Zwecke geeignetste App heißt *element* und wird von matrix.org,
 1. Auf [https://element.io/download](https://element.io/download) entweder die Browser-App starten - der direkte Link hierzu lautet: [https://app.element.io](https://app.element.io/#/login) - oder die App für Dein Betriebssystem herunterladen. Das gleiche funktioniert im Falle von Mobilgeräten natürlich auch direkt aus dem App Store/Play Store heraus.
 2. Danach zum Einloggen die Adresse des Heim-Servers *reservision.world* durch Klick auf **Bearbeiten** einstellen: 
 ![Screenshot 2024-07-15 125350](https://github.com/user-attachments/assets/c6d2913d-c589-4743-bd6b-e230419bfea3)
-3. Nun lässt sich der Login mit der Google-Workspace-Adresse (@reservision.world) durchführen und die Element-App stellt sich kurz vor. Du bist automatisch Mitglied des Raumes "Allgemein".
+3. Nun lässt sich der Login mit der Google-Workspace-Adresse (@reservision.world) per klick auf **Weiter mit Google** durchführen und die Element-App stellt sich kurz vor. Du bist automatisch Mitglied des Raumes "Allgemein".
 4. Zunächst sollten die Schlüssel für die Ende-zu-Ende-Verschlüsselung (E2E) festgelegt werden. Hierzu klickst du auf dein Profilbild und danach auf **Sicherheit**, bzw **Sicherheit und Privatsphäre** in der Mobile-App.
 ![image](https://github.com/user-attachments/assets/6a7399bc-f847-41e7-8a28-bad8eba251ef)
 
